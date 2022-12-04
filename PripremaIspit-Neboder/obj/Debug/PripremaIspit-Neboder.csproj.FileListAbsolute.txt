@@ -1,0 +1,8 @@
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Neboder\PripremaIspit-Neboder\bin\Debug\PripremaIspit-Neboder.exe.config
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Neboder\PripremaIspit-Neboder\bin\Debug\PripremaIspit-Neboder.exe
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Neboder\PripremaIspit-Neboder\bin\Debug\PripremaIspit-Neboder.pdb
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Neboder\PripremaIspit-Neboder\obj\Debug\PripremaIspit-Neboder.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Neboder\PripremaIspit-Neboder\obj\Debug\PripremaIspit-Neboder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Neboder\PripremaIspit-Neboder\obj\Debug\PripremaIspit-Neboder.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Neboder\PripremaIspit-Neboder\obj\Debug\PripremaIspit-Neboder.exe
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Neboder\PripremaIspit-Neboder\obj\Debug\PripremaIspit-Neboder.pdb

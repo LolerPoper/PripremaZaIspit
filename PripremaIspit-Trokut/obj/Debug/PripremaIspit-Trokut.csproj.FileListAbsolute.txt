@@ -1,0 +1,8 @@
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Trokut\PripremaIspit-Trokut\bin\Debug\PripremaIspit-Trokut.exe.config
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Trokut\PripremaIspit-Trokut\bin\Debug\PripremaIspit-Trokut.exe
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Trokut\PripremaIspit-Trokut\bin\Debug\PripremaIspit-Trokut.pdb
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Trokut\PripremaIspit-Trokut\obj\Debug\PripremaIspit-Trokut.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Trokut\PripremaIspit-Trokut\obj\Debug\PripremaIspit-Trokut.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Trokut\PripremaIspit-Trokut\obj\Debug\PripremaIspit-Trokut.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Trokut\PripremaIspit-Trokut\obj\Debug\PripremaIspit-Trokut.exe
+C:\Users\Piero\Documents\School\NiOP\PripremaIspit-Trokut\PripremaIspit-Trokut\obj\Debug\PripremaIspit-Trokut.pdb

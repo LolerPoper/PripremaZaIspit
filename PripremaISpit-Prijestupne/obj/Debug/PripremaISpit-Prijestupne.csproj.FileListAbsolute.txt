@@ -1,0 +1,8 @@
+C:\Users\Piero\Documents\School\NiOP\PripremaISpit-Prijestupne\PripremaISpit-Prijestupne\bin\Debug\PripremaISpit-Prijestupne.exe.config
+C:\Users\Piero\Documents\School\NiOP\PripremaISpit-Prijestupne\PripremaISpit-Prijestupne\bin\Debug\PripremaISpit-Prijestupne.exe
+C:\Users\Piero\Documents\School\NiOP\PripremaISpit-Prijestupne\PripremaISpit-Prijestupne\bin\Debug\PripremaISpit-Prijestupne.pdb
+C:\Users\Piero\Documents\School\NiOP\PripremaISpit-Prijestupne\PripremaISpit-Prijestupne\obj\Debug\PripremaISpit-Prijestupne.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\PripremaISpit-Prijestupne\PripremaISpit-Prijestupne\obj\Debug\PripremaISpit-Prijestupne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\PripremaISpit-Prijestupne\PripremaISpit-Prijestupne\obj\Debug\PripremaISpit-Prijestupne.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\PripremaISpit-Prijestupne\PripremaISpit-Prijestupne\obj\Debug\PripremaISpit-Prijestupne.exe
+C:\Users\Piero\Documents\School\NiOP\PripremaISpit-Prijestupne\PripremaISpit-Prijestupne\obj\Debug\PripremaISpit-Prijestupne.pdb
